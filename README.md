@@ -1,5 +1,5 @@
 ## View Live
-> ToDo List - https://ravigithub19.github.io/ToDo-List/
+> Magic Notes - https://ravigithub19.github.io/MagicNotes/
 
 ## About
 > Developed a simple ToDo List Web App to list up items instead of installing/downloading a new software.
@@ -9,13 +9,9 @@
 
 ![Example screenshot](img/02.png)<br>
 
-> Mobile View
-
-![Example screenshot](img/03.png)<br>
-
 ## Technologies
 * HTML5
-* CSS3
+* Bootstrap
 * Javascript
 
 ## Status
